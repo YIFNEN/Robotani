@@ -1,6 +1,8 @@
-﻿# Robotani
+# Robotani
 
-Unity project for Robotani.
+**분류:** Learning
+
+학습용 prototype입니다.
 
 ## Unity version
 
